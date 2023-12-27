@@ -7,7 +7,7 @@ This repository contains a simple ATM (Automated Teller Machine) system implemen
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributers](#contributing)
+- [Contributors](#Contributors)
 
 
 ## Introduction
