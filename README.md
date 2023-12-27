@@ -22,6 +22,35 @@ This project demonstrates a basic ATM system developed in Assembly language (808
 
 ## Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/assembly-8086-atm.git
+To utilize this ATM system implemented in Assembly language (8086), follow these steps:
+
+1. **Download an 8086 Emulator:**
+   - Obtain an appropriate 8086 emulator. [Insert emulator name/link], for example.
+   - Ensure the emulator is compatible with your system's specifications.
+
+2. **Download the Code:**
+   - Clone or download the repository to your local machine:
+     ```bash
+     git clone https://github.com/your-username/assembly-8086-atm.git
+     ```
+   - Extract the files if downloaded as a ZIP archive.
+
+3. **Run the Emulator:**
+   - Open the downloaded 8086 emulator.
+   - Load or open the assembly code file (`*.asm`) within the emulator's environment.
+   - Assemble and run the code within the emulator. Follow the emulator's specific instructions for loading and executing assembly programs.
+
+4. **Interacting with the ATM System:**
+   - Once the program is running, follow the on-screen prompts or input instructions provided by the ATM system.
+   - Use the functionalities provided, such as withdrawal, deposit, and balance inquiry.
+   - Input test scenarios or follow the predefined steps outlined in the code to simulate ATM operations.
+
+5. **Exiting the Emulator:**
+   - Follow the emulator's instructions to exit or close the program.
+
+6. **Testing and Experimentation:**
+   - Feel free to experiment with the code, modify inputs, or explore the assembly implementation to understand how the ATM system functions.
+   - Test different scenarios to observe the system's behavior and responses.
+
+
+   
