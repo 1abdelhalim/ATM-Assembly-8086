@@ -25,15 +25,16 @@ This project demonstrates a basic ATM system developed in Assembly language (808
 To utilize this ATM system implemented in Assembly language (8086), follow these steps:
 
 1. **Download an 8086 Emulator:**
-   - Obtain an appropriate 8086 emulator. [Insert emulator name/link], for example.
+   - Obtain an appropriate 8086 emulator. [https://emu8086.en.lo4d.com/windows], for example.
    - Ensure the emulator is compatible with your system's specifications.
 
 2. **Download the Code:**
    - Clone or download the repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/assembly-8086-atm.git
+     git clone https://github.com/1abdelhalim/ATM-Assembly-8086.git
      ```
-   - Extract the files if downloaded as a ZIP archive.
+   - If you prefer, you can also download the repository as a ZIP archive using [this link](https://github.com/1abdelhalim/ATM-Assembly-8086/archive/refs/heads/main.zip).
+
 
 3. **Run the Emulator:**
    - Open the downloaded 8086 emulator.
