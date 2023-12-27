@@ -56,5 +56,5 @@ To utilize this ATM system implemented in Assembly language (8086), follow these
    
 ## Contributers 
 If you have any questions or need assistance, you can reach out to:
-- [Mohamed Abdelhalim]([https://github.com/your-username](https://github.com/1abdelhalim))
+- [Mohamed Abdelhalim](https://github.com/your-username)
 - [Mohamed Gamal Maklad](https://github.com/Muhammed-Maklad)
